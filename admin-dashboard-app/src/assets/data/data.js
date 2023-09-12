@@ -51,7 +51,7 @@ export const menuData = [
   },
 ];
 
-// Top Analytics Card
+// Top Analytics Card data
 export const topAnalyticsData = [
   {
     text: "Favourite Services",
